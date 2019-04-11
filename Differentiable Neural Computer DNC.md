@@ -19,3 +19,4 @@ Very interesting concept for using memory in a Neural Network. The model seems t
 * [DNC | Nature](https://www.nature.com/articles/nature19477)
 * [DNC | Shiraj | Youtube](https://www.youtube.com/watch?v=r5XKzjTFCZQ)
 * [The Future of Deep Learning Research | Youtube]( https://www.youtube.com/watch?v=WTnxE0wjZaM)
+* [Improved DNC](http://papers.nips.cc/paper/6298-scaling-memory-augmented-neural-networks-with-sparse-reads-and-writes.pdf) - A bit difficult to read
