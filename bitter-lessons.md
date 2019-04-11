@@ -12,5 +12,5 @@ The key summary of the note about machine learning is _general methods that leve
 
 
 ## Ref
-[Rich Sutton](http://incompleteideas.net/)
-[Andrej Karpathy](https://cs.stanford.edu/people/karpathy/) 
+* [Rich Sutton](http://incompleteideas.net/)
+* [Andrej Karpathy](https://cs.stanford.edu/people/karpathy/) 
