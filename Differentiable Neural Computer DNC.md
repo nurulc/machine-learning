@@ -15,6 +15,10 @@ Very interesting concept for using memory in a Neural Network. The model seems t
     3. Generate next output
 
 
+_Some notes:_
+
+I am still trying to fully understand the implementation details and the performance tradeoffs. But one thing is clear it a memory efficient of storing knowlwdge for neural networks. But clearly this is work in progress, but worth keen an eye o this development.
+
 * [Differentiable neural computers | DeepMind](https://deepmind.com/blog/differentiable-neural-computers/)
 * [DNC | Nature](https://www.nature.com/articles/nature19477)
 * [DNC | Shiraj | Youtube](https://www.youtube.com/watch?v=r5XKzjTFCZQ)
