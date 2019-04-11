@@ -18,4 +18,4 @@ Very interesting concept for using memory in a Neural Network. The model seems t
 * [Differentiable neural computers | DeepMind](https://deepmind.com/blog/differentiable-neural-computers/)
 * [DNC | Nature](https://www.nature.com/articles/nature19477)
 * [DNC | Shiraj | Youtube](https://www.youtube.com/watch?v=r5XKzjTFCZQ)
-* [Youtube]( https://www.youtube.com/watch?v=WTnxE0wjZaM)
+* [The Future of Deep Learning Research | Youtube]( https://www.youtube.com/watch?v=WTnxE0wjZaM)
