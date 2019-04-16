@@ -17,3 +17,8 @@ This site is for mostly my personal notes  for storing interesting documents and
 * ADAM - efficient gradient descent optimizer
 
 
+### Free Energy Principle
+
+* What is it
+* How do we use it
+* What is the mathematical formulation
