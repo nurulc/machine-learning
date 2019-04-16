@@ -22,6 +22,7 @@ This site is for mostly my personal notes  for storing interesting documents and
 * What is it
 * How do we use it
 * What is the mathematical formulation
+* Bayesian models 
 
 ### Capsule Network
 * Hinton et al
