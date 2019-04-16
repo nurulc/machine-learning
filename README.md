@@ -16,6 +16,11 @@ This site is for mostly my personal notes  for storing interesting documents and
 * SGD - stocastic gradinet descent
 * ADAM - efficient gradient descent optimizer
 
+## ROC
+
+* Receiver operating characteristic
+
+![](https://upload.wikimedia.org/wikipedia/commons/6/6b/Roccurves.png)
 
 ### Free Energy Principle
 
