@@ -22,3 +22,11 @@ This site is for mostly my personal notes  for storing interesting documents and
 * What is it
 * How do we use it
 * What is the mathematical formulation
+
+### Capsule Network
+* Hinton et al
+
+* Why is it interesting?
+* Key ideas in convolutional networks
+* Alternative to max pooling
+* Preserving key invariance
