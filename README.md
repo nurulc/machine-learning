@@ -36,3 +36,5 @@ This site is for mostly my personal notes  for storing interesting documents and
 * Key ideas in convolutional networks
 * Alternative to max pooling
 * Preserving key invariance
+
+[capsule network writeup](https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b)
