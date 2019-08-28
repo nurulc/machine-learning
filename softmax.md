@@ -22,15 +22,15 @@ where ![](softmax-def.png)
 Noting that exp(a+b)  = exp(a)exp(b)  
 
 
-```
-SoftMax(x)  = exp(x[i]) / Sum(exp(x))
 
-SoftMax(x) = exp(x[i]-b)*exp(b) / Sum(exp(x-b)*exp(b))
-           = exp(x[i]-b)/Sum(exp(x-b)) where b is max x
+SoftMax(__x__)  = exp(x<sub>i</sub>) / Sum(exp(__x__))
+
+SoftMax(__x__) = exp(x<sub>i</sub>-b)*exp(b) / &sum;(exp(__x__-b)*exp(b))<br>
+&nbsp;&nbsp;&nbsp;&nbsp;= exp(x<sub>i</sub>-b)/&sum;(exp(x-b))<br> where b is max __x__
            
-           log π[i] =x[i]−logsumexp(x)
-           logsumexp(x)=b+log ∑ exp(x[j]−b)
- ```
+ &nbsp;&nbsp;&nbsp;&nbsp;log &pi;<sub>i</sub> =x<sub>i</sub>−logsumexp(__x__)<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;logsumexp(__x__)=b+log &sum; exp(x<sub>i</sub>−b)
+
  
  Exp-normalize is the gradient of log-sum-exp.
 
