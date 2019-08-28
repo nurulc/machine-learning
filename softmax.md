@@ -1,5 +1,15 @@
 ### Softmax
 
+Observation x is a vector of logits and most of the values are greater than 1 then softmax gives a kind of pseudo probablilty that give a high probability to the largest value. It works very badly if all the values of x are less than 1.
+
+let x = [2, 6, 1, 4, 3]
+
+
+
+
+
+
+
 
 ### Exp-normalize trick
 
