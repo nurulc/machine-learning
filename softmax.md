@@ -5,7 +5,7 @@ Observation x is a vector of logits and most of the values are greater than 1 th
 let x = [2, 6, 1, 4, 3]
 
 
-
+![](softmax.png)
 
 
 
