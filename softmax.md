@@ -15,7 +15,7 @@ Notice how softmax pushes up the max value and supresses the lesser values.
 
 #### Now if we scales x / 10  giving \[0.2, 0.6, 0.1, 0.4, 0.3]
 
-The relative sizes of the vales have not changes so the simple probability remanins the same, but look how the changes softmax to be largely useless.
+The relative sizes of the vales have not changes so the simple probability remanins the same, but look how the changes the softmax  values; now softmax is largely useless.
 
 ![](softmax-small-values.png)
 
@@ -24,8 +24,9 @@ The relative sizes of the vales have not changes so the simple probability reman
 ### Exp-normalize trick
 
 
-The exp function overflows very easily even for relatively small integers
-Noting that exp(a+b)  = exp(a)exp(b)  
+The exp function overflows very easily even for relatively small integers say 500, but we can use the following property of the exponential to overcome this issue.
+
+Noting that _exp(a+b)  = exp(a)exp(b)_  
 
 
 
