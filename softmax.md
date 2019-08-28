@@ -19,17 +19,19 @@ where ![](softmax-def.png)
 
 ### Exp-normalize trick
 
+
+The exp function overflows very easily even for relatively small integers
 Noting that exp(a+b)  = exp(a)exp(b)  
 
 
 
-SoftMax(__x__)  = exp(x<sub>i</sub>) / Sum(exp(__x__))
+SoftMax(__x__)  = exp(x<sub>i</sub>) / &sum; exp(__x__)
 
 SoftMax(__x__) = exp(x<sub>i</sub>-b)*exp(b) / &sum;(exp(__x__-b)*exp(b))<br>
-&nbsp;&nbsp;&nbsp;&nbsp;= exp(x<sub>i</sub>-b)/&sum;(exp(x-b))<br> where b is max __x__
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;= exp(x<sub>i</sub>-b) / &sum;(exp(x-b))<br> &nbsp;&nbsp;&nbsp;where b is max __x__
            
- &nbsp;&nbsp;&nbsp;&nbsp;log &pi;<sub>i</sub> =x<sub>i</sub>−logsumexp(__x__)<br>
- &nbsp;&nbsp;&nbsp;&nbsp;logsumexp(__x__)=b+log &sum; exp(x<sub>i</sub>−b)
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;log &pi;<sub>i</sub> = x<sub>i</sub> − logsumexp(__x__)<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;logsumexp(__x__)=b+log &sum; exp(x<sub>i</sub>−b)
 
  
  Exp-normalize is the gradient of log-sum-exp.
