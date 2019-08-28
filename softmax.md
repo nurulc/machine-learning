@@ -10,10 +10,14 @@ Observation x is a vector of logits and most of the values are greater than 1 th
 
 where ![](softmax-def.png)
 
-
 ![](softmax.png)
+Notice how softmax pushes up the max value and supresses the lesser values.
 
+#### Now if we scales x / 10  giving \[0.2, 0.6, 0.1, 0.4, 0.3]
 
+The relative sizes of the vales have not changes so the simple probability remanins the same, but look how the changes softmax to be largely useless.
+
+![](softmax-small-values.png)
 
 
 
