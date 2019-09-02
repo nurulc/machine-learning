@@ -25,7 +25,7 @@ Some of the terms I found useful to take note of
 
 * SGD - stocastic gradinet descent
 * ADAM - efficient gradient descent optimizer
-* Blog by Christopher Olah
+* Blog by [Christopher Olah](https://colah.github.io/)
 
 ## ROC
 
