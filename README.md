@@ -19,12 +19,13 @@ Some of the terms I found useful to take note of
 * Supervised learning - 
 * Accuracy - percent of correct predictions from all the input
     * Precission - percent of prediction of a category that was correct, i.e. how useful is the result. For example, of all the cats predicted what percent was correct
-    * Recall - percent of of a category was correctly predicted, i.e. how complete was result. For example, of all the cats in the data which percent was correct predicted 
+    * Recall - percent of of a category was correctly predicted, i.e. how complete was result. For example, of all the cats in the data which percent was correct predicted * Blog by Christopher Olah
 
 ### Gradient Descent
 
 * SGD - stocastic gradinet descent
 * ADAM - efficient gradient descent optimizer
+* Blog by Christopher Olah
 
 ## ROC
 
@@ -55,3 +56,5 @@ Some of the terms I found useful to take note of
 [Jeff Heaton](https://www.youtube.com/watch?v=59duINoc8GM)
 
 [Glossary](https://developers.google.com/machine-learning/glossary/)
+
+
