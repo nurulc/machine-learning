@@ -4,7 +4,7 @@
 
 How far from the true relationship is called the Bias. Often computed as the 
 
-![](bias.png)
+![](images/bias.png)
 
 * A<sub>i</sub> - actual value for i
 * P<sub>i</sub> - predicted value for i
@@ -14,4 +14,4 @@ How far from the true relationship is called the Bias. Often computed as the
 
 Is how well the model fits a testing set
 
-![](bias.png)
+![](imagesvariance.png)
