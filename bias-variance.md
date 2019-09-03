@@ -14,4 +14,4 @@ How far from the true relationship is called the Bias. Often computed as the
 
 Is how well the model fits a testing set
 
-![](imagesvariance.png)
+![](images/variance.png)
