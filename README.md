@@ -23,7 +23,7 @@ Some of the terms I found useful to take note of
 ## Neural Network Architectures
 
 * CNN - Convolutional Neural Network
-* RNN - Recurrent Neural Network ![](<img width="80px" height="300px" src="images/RNN-unrolled.png">)
+* RNN - Recurrent Neural Network <br><img width="300" src="images/RNN-unrolled.png">
 * [LSTM](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) - Long Short Term Memory
 ### Gradient Descent
 
