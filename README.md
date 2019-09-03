@@ -20,7 +20,10 @@ Some of the terms I found useful to take note of
 * Accuracy - percent of correct predictions from all the input
     * Precission - percent of prediction of a category that was correct, i.e. how useful is the result. For example, of all the cats predicted what percent was correct
     * Recall - percent of of a category was correctly predicted, i.e. how complete was result. For example, of all the cats in the data which percent was correct predicted * Blog by Christopher Olah
+## Neural Network Architectures
 
+* CNN - Convolutional Neural Network
+* [LSTM](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) - Long Short Term Memory
 ### Gradient Descent
 
 * SGD - stocastic gradinet descent
