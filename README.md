@@ -47,7 +47,7 @@ Machine learning making a prediction from the input. The difference between the 
 
 * Receiver operating characteristic
 
-![](https://upload.wikimedia.org/wikipedia/commons/6/6b/Roccurves.png)
+<img width="300" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Roccurves.png">
 
 ### Free Energy Principle
 
