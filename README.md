@@ -23,13 +23,16 @@ Some of the terms I found useful to take note of
 ## Neural Network Architectures
 
 * CNN - Convolutional Neural Network
-* RNN - Recurrent Neural Network <br><img width="300" src="images/RNN-unrolled.png">
+* [RNN](rnn.md) - Recurrent Neural Network <br><img width="300" src="images/RNN-unrolled.png">
 * [LSTM](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) - Long Short Term Memory
 ### Gradient Descent
 
 * SGD - stocastic gradinet descent
 * ADAM - efficient gradient descent optimizer
 * Blog by [Christopher Olah](https://colah.github.io/)
+## Interesting Articles
+
+* [Attention](https://jalammar.github.io/illustrated-transformer/)
 
 ## ROC
 
