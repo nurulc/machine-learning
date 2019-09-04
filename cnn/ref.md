@@ -6,6 +6,7 @@ A Convolutional neural netwoks ar often used for image processing.
 ![](../images/Typical_cnn.png)
 
 ### Subsampling
+Is a method of reducing the size of and image or feature map to make further processing easier. The trick is to capture the salient data into the reduced map.
 
 Example - [max pooling](https://computersciencewiki.org/index.php/Max-pooling_/_Pooling) involves fplitting the data into patches taking the maximum from each patch to give a subsampled result.
 
