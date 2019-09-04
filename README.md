@@ -27,7 +27,7 @@ Some of the terms I found useful to take note of
 * [LSTM](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) - Long Short Term Memory
 ### Gradient Descent
 
-* SGD - stocastic gradinet descent
+* SGD - stocastic gradinet descent [deep dive here](https://gluon.mxnet.io/chapter06_optimization/gd-sgd-scratch.html)
 * [ADAM](https://towardsdatascience.com/adam-latest-trends-in-deep-learning-optimization-6be9a291375c) - efficient gradient descent optimizer, [javascript implementation here](adam_optimizer.md)
 * Blog by [Christopher Olah](https://colah.github.io/)
 ## Interesting Articles
