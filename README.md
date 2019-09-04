@@ -22,7 +22,7 @@ Some of the terms I found useful to take note of
     * Recall - percent of of a category was correctly predicted, i.e. how complete was result. For example, of all the cats in the data which percent was correct predicted * Blog by Christopher Olah
 ## Neural Network Architectures
 
-* CNN - Convolutional Neural Network
+* [CNN](cnn/ref.md) - Convolutional Neural Network
 * [RNN](rnn/ref.md) - Recurrent Neural Network <br><img width="300" src="images/RNN-unrolled.png">
 * [LSTM](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) - Long Short Term Memory
 ### Gradient Descent
