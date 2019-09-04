@@ -2,6 +2,8 @@
 
 A Convolutional neural netwoks ar often used for image processing.
 
+* Typical CNN
+![](../images/Typical_cnn.png)
 
 ## Advantages
 
