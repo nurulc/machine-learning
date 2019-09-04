@@ -25,6 +25,15 @@ Some of the terms I found useful to take note of
 * [CNN](cnn/ref.md) - Convolutional Neural Network
 * [RNN](rnn/ref.md) - Recurrent Neural Network <br><img width="300" src="images/RNN-unrolled.png">
 * [LSTM](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) - Long Short Term Memory
+
+#### Loss function
+Machine learning making a prediction from the input. The difference between the _true value_ and the prediction is called the loss. Since there are may ways to define the distance between the  prediction and the truth, so there are may ways to define the loss, and this is refered to as the loss function.
+
+* MSE - mean square error
+* LK divergence
+
+[Some loss function discussion](https://heartbeat.fritz.ai/5-regression-loss-functions-all-machine-learners-should-know-4fb140e9d4b0)
+
 ### Gradient Descent
 
 * SGD - stocastic gradinet descent [deep dive here](https://gluon.mxnet.io/chapter06_optimization/gd-sgd-scratch.html)
@@ -64,4 +73,4 @@ Some of the terms I found useful to take note of
 
 [Glossary](https://developers.google.com/machine-learning/glossary/)
 
-
+[Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
