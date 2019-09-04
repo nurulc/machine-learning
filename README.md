@@ -73,4 +73,5 @@ Machine learning making a prediction from the input. The difference between the 
 
 [Glossary](https://developers.google.com/machine-learning/glossary/)
 
-[Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
+* [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
+* [Vapnik-Chervonenkis Dimension](https://towardsdatascience.com/measuring-the-power-of-a-classifier-c765a7446c1c) [video](https://www.youtube.com/watch?v=KI9PvB9wwrU) - shortened to VC Dimensions
