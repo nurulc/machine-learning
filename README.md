@@ -28,7 +28,7 @@ Some of the terms I found useful to take note of
 ### Gradient Descent
 
 * SGD - stocastic gradinet descent
-* ADAM - efficient gradient descent optimizer
+* [ADAM](adam_optimizer.md) - efficient gradient descent optimizer
 * Blog by [Christopher Olah](https://colah.github.io/)
 ## Interesting Articles
 
