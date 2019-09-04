@@ -75,4 +75,4 @@ Machine learning making a prediction from the input. The difference between the 
 
 * [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
 * [Vapnik-Chervonenkis Dimension](https://towardsdatascience.com/measuring-the-power-of-a-classifier-c765a7446c1c) [video](https://www.youtube.com/watch?v=KI9PvB9wwrU) - shortened to VC Dimensions, measures the complexity of a machine learning model.
-<img width="200" src="images/VC+Dimension+(Vapnik–Chervonenkis+Dimension).jpg">
+<img width="300" src="images/VC+Dimension+(Vapnik–Chervonenkis+Dimension).jpg">
