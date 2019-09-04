@@ -18,7 +18,7 @@ class Adam {
         this.b1t = beta_1;
         this.b2t = beta_2;
     }
-    get_update(alpha, g) { // alpha is the learning rate, g is the gradient
+    get_update(alpha, g) { // alpha is the learning rate, g is the gradient vector (array oflength 'nparams')
         this.t += 1;
         let updates= new Array(this.nparams);
         const {m,v,b,beta_1,beta_2, b1t, b2t, epsilon, nparams} = this;
