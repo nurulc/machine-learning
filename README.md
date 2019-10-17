@@ -30,7 +30,7 @@ Some of the terms I found useful to take note of
 Machine learning making a prediction from the input. The difference between the _true value_ and the prediction is called the loss. Since there are may ways to define the distance between the  prediction and the truth, so there are may ways to define the loss, and this is refered to as the loss function.
 
 * MSE - mean square error
-* LK divergence
+* KL divergence, a metric on the difference between 2 probability distributions.
 
 [Some loss function discussion](https://heartbeat.fritz.ai/5-regression-loss-functions-all-machine-learners-should-know-4fb140e9d4b0)
 
